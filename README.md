@@ -1,6 +1,12 @@
 # spanish_dni_verifier
 Simple js project to teach some coding
 
+## How to run?
+
+1. `brew install npm`
+2. `npm install`
+3. `npm test`
+
 ## What is a valid DNI?
 [source](https://en.wikipedia.org/wiki/Documento_Nacional_de_Identidad_%28Spain%29)
 The number of the National Identity Document includes 8 digits and one letter for security. The letter is found by taking all 8 digits as a number and dividing it by 23. The remainder of this digit, which is between 0 and 22, gives the letter used for security. The letters I, Ñ, O, U are not used. The letters I and O are not used – to avoid confusions with the numbers 0 and 1. The Ñ is not used in order to avoid confusions with N.
