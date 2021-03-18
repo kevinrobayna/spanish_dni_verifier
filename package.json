@@ -1,0 +1,23 @@
+{
+  "name": "spanish_dni_verifier",
+  "version": "1.0.0",
+  "description": "Simple js project to teach some coding",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinrobayna/spanish_dni_verifier.git"
+  },
+  "author": "Kevin Robayna",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kevinrobayna/spanish_dni_verifier/issues"
+  },
+  "homepage": "https://github.com/kevinrobayna/spanish_dni_verifier#readme",
+  "devDependencies": {
+    "jest": "^26.6.3",
+    "jest-each": "^26.6.2"
+  }
+}
