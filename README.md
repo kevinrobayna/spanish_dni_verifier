@@ -46,3 +46,11 @@ From the beginning up to the present day, DNI's are assigned to the different po
 Number one was given to Francisco Franco, with number two being given to his wife, Carmen Polo, and number three to their daughter, Carmen Franco y Polo. The numbers four through nine are vacant to this day. The numbers 10-99 are reserved for the royal family. Number 10 was given to King Juan Carlos I, number 11 for Queen Sofía of Spain and numbers 12 and 14 for Princesses Elena and Christina, respectively. King Felipe VI of Spain has the number 15, Princess Leonor has the number 16 and Princess Infanta Sofía of Spain has the number 17. The number 13 was left out due to superstition.
 
 There is evidence that there are thousands of people that share their DNI numbers.
+
+### How are DNIs Represented
+
+There's several common ways of represent a NIF aka DNI:
+* A serie of 8 digits and right after a capital letter i.e `00000001R`
+* A serie of 8 digits with a dash after to separate the letter i.e `00000001-R` (this is how are represented most IDs)
+
+Since this program is meant to be run in a computer we can ignore the case of the letter so the following representations are also valid `00000001r` and `00000001-r`
